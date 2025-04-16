@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gOG9mSFS5dE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alejandra\\OneDrive\\Desktop\\cs\\Biblioteca2\\Biblioteca2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alejandra\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

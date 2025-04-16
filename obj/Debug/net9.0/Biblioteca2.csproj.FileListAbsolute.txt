@@ -1,0 +1,17 @@
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\Biblioteca2.csproj.AssemblyReference.cache
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\Biblioteca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\Biblioteca2.AssemblyInfoInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\Biblioteca2.AssemblyInfo.cs
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\Biblioteca2.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\bin\Debug\net9.0\Biblioteca2.exe
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\bin\Debug\net9.0\Biblioteca2.deps.json
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\bin\Debug\net9.0\Biblioteca2.runtimeconfig.json
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\bin\Debug\net9.0\Biblioteca2.dll
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\bin\Debug\net9.0\Biblioteca2.pdb
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\Bibliote.9045BB5A.Up2Date
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\Biblioteca2.dll
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\refint\Biblioteca2.dll
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\Biblioteca2.pdb
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\Biblioteca2.genruntimeconfig.cache
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\ref\Biblioteca2.dll

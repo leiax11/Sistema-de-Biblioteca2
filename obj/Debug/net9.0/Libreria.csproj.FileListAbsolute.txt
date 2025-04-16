@@ -1,0 +1,10 @@
+C:\Users\Alejandra\OneDrive\Desktop\cs\Libreria\obj\Debug\net9.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\Alejandra\OneDrive\Desktop\cs\Libreria\obj\Debug\net9.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandra\OneDrive\Desktop\cs\Libreria\obj\Debug\net9.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\cs\Libreria\obj\Debug\net9.0\Libreria.AssemblyInfo.cs
+C:\Users\Alejandra\OneDrive\Desktop\cs\Libreria\obj\Debug\net9.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\Libreria.AssemblyInfo.cs
+C:\Users\Alejandra\OneDrive\Desktop\cs\Biblioteca2\obj\Debug\net9.0\Libreria.csproj.CoreCompileInputs.cache
